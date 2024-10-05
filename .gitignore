@@ -50,3 +50,11 @@ Thumbs.db
 
 # Ignore private notes and settings
 /[Aa]ssets/Private/
+
+/ProjectSettings/
+/Packages/
+/UserSettings/
+/Library/
+/Temp/
+/Obj/
+/Assets/
