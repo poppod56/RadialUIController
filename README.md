@@ -51,7 +51,8 @@ A customizable Radial UI Controller for Unity that allows you to create interact
 
 1. A sample scene is included in the package to demonstrate the radial UI layout (if applicable).
 2. Open `Samples~/RadialUIExampleScene` to see a working example of the radial menu in action. -->
-
+### Video Example
+https://youtu.be/LrPBeADnbzk?si=e_u_smmlmaFdhsG6
 ## Usage Instructions
 
 ### Adjusting the Radial Layout
