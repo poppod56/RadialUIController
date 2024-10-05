@@ -1,0 +1,52 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log and cache files
+*.log
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.booproj
+*.tmp
+*.swp
+*.sln
+
+# Ignore build directories
+/Build/
+/Builds/
+
+# Ignore Unity specific files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/MemoryCaptures/
+
+# Ignore asset meta files created by Unity
+/[Aa]ssets/**/*.meta
+/Packages/**/*.meta
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Rider specific files
+.idea/
+/.idea/
+/.Rider/
+/.RiderSystem/
+
+# Ignore JetBrains Rider Editor Plugin files
+*.dotSettings
+
+# Ignore UPM package-lock.json (if present)
+/Packages/packages-lock.json
+
+# Ignore Git LFS (optional, if you're using it)
+/.git/lfs/
+
+# Ignore private notes and settings
+/[Aa]ssets/Private/
