@@ -1,0 +1,19 @@
+{
+  "name": "com.poppod56.radialuicontroller",
+  "version": "1.0.0",
+  "displayName": "Radial UI Controller",
+  "description": "A customizable radial UI layout controller for Unity.",
+  "unity": "2019.1",
+  "unityRelease": "0f1",
+  "keywords": [
+    "UI",
+    "radial",
+    "menu",
+    "layout"
+  ],
+  "author": {
+    "name": "Pramarn Moonprasarn",
+    "email": "pop.podmenyou@gmail.com",
+    "url": "https://github.com/poppod56"
+  }
+}
